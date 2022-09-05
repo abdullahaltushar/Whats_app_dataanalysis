@@ -60,3 +60,40 @@ I expect to see a nice line graph with crests and troughs in odd places.
 <p align="center">
 <img src="assets/plot/plot.PNG">
 </p>
+
+
+
+### Result
+
+<p align="center">
+<img src="assets/codes/Capture.PNG">
+</p>
+<p align="center">
+<img src="assets/codes/outputs.PNG">
+</p>
+
+# *Conclusion*
+
+**That’s it from my end! I hope you learned and enjoyed a lot!**
+
+<p align="center">
+<img src="assets/extras/5-the-office.gif">
+</p>
+
+It’s really interesting to see the texting habits of people and incidents of daily life reflected in the text. I suggest you take a look at my code and apply it to your own group chats. However, some modifications will have to be done at the DataFrame creation part. 
+
+If you’re interested, shoot me a message and I’ll help you out.
+
+- Extending this Whatsapp Analysis Project!
+    - Adding a **Sentiment Analyser to the texts** — *Swear Words & Sentiments*!
+    - Libraries called `profanity_check`, `TextBlob`, `VADER` (Valence Aware Dictionary and Sentiment Reasoner) from NTLK and TextBlob.
+
+- Instagram Data Analysis
+- Play Store Data Analysis
+- Exploring more datasets! It is never-ending, as there can be **Infinite Stories with Data**!
+- Once, done with enough Data Analysis, try making Datasets, scraping Data from websites and creating Interesting Datasets!
+
+> And the best time to do it is right now, today, because tomorrow, typically means never.
+
+
+***Thank you for reading!***
