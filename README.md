@@ -58,5 +58,5 @@ I expect to see a nice line graph with crests and troughs in odd places.
 <img src="assets/codes/import.PNG">
 </p>
 <p align="center">
-<img src="assets/plots/plot.PNG">
+<img src="assets/plot/plot.PNG">
 </p>
