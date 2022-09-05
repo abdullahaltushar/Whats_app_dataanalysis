@@ -60,6 +60,8 @@ I expect to see a nice line graph with crests and troughs in odd places.
 <p align="center">
 <img src="assets/plot/plot.PNG">
 </p>
+<br>
+
 
 
 
@@ -71,6 +73,7 @@ I expect to see a nice line graph with crests and troughs in odd places.
 <p align="center">
 <img src="assets/extras/outputs.PNG">
 </p>
+</br>
 
 # *Conclusion*
 
@@ -92,8 +95,5 @@ If you’re interested, shoot me a message and I’ll help you out.
 - Play Store Data Analysis
 - Exploring more datasets! It is never-ending, as there can be **Infinite Stories with Data**!
 - Once, done with enough Data Analysis, try making Datasets, scraping Data from websites and creating Interesting Datasets!
-
-> And the best time to do it is right now, today, because tomorrow, typically means never.
-
 
 ***Thank you for reading!***
