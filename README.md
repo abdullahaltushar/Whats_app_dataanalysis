@@ -66,10 +66,10 @@ I expect to see a nice line graph with crests and troughs in odd places.
 ### Result
 
 <p align="center">
-<img src="assets/codes/Capture.PNG">
+<img src="assets/extras/Capture.PNG">
 </p>
 <p align="center">
-<img src="assets/codes/outputs.PNG">
+<img src="assets/extras/outputs.PNG">
 </p>
 
 # *Conclusion*
